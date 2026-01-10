@@ -8,7 +8,7 @@ align="center">21 𝐲𝐞𝐚𝐫𝐬 𝐨𝐥𝐝. 𝐈 𝐚𝐬𝐩𝐢𝐫�
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=next-dev1&label=Profile%20views&color=0e75b6&style=flat" alt="next-dev1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nextdev0" target="blank"><img src="https://img.shields.io/twitter/follow/nextdev0?logo=twitter&style=for-the-badge" alt="nextdev0" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kuriadev" target="blank"><img src="https://img.shields.io/twitter/follow/kuriadev?logo=twitter&style=for-the-badge" alt="kuriadev" /></a> </p>
 
 - 🤓 I’m currently learning **Typescript, NextJS, React, Tailwind**
 
@@ -18,8 +18,8 @@ align="center">21 𝐲𝐞𝐚𝐫𝐬 𝐨𝐥𝐝. 𝐈 𝐚𝐬𝐩𝐢𝐫�
 
 <h3 align="left">Connect with me 😎:</h3>
 <p align="left">
-<a href="https://twitter.com/nextdev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nextdev0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/next dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="next dev" height="30" width="40" /></a>
+<a href="https://twitter.com/kuriadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuriadev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kuriadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuriadev" height="30" width="40" /></a>
 <a href="https://instagram.com/aaverydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaverydev" height="30" width="40" /></a>
 <a href="https://discord.gg/next_dev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="next_dev1" height="30" width="40" /></a>
 </p>
