@@ -19,8 +19,11 @@ align="center">21 𝐲𝐞𝐚𝐫𝐬 𝐨𝐥𝐝. 𝐈 𝐚𝐬𝐩𝐢𝐫�
 <h3 align="left">Connect with me 😎:</h3>
 <p align="left">
 <a href="https://twitter.com/kuriadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuriadev" height="30" width="40" /></a>
+<br />
 <a href="https://linkedin.com/in/kuriadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuriadev" height="30" width="40" /></a>
+<br />
 <a href="https://instagram.com/aaverydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaverydev" height="30" width="40" /></a>
+<br />
 <a href="https://discord.gg/next_dev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="next_dev1" height="30" width="40" /></a>
 </p>
 
